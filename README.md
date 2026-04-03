@@ -1,6 +1,5 @@
 # 🎲 Probability Simulator(AI Powered)
 
-🚀 **Live Demo:** https://your-app.streamlit.app
 📂 **GitHub Repo:** https://github.com/yourusername/probability-simulator
 
 ---
